@@ -1,0 +1,23 @@
+📊 Evaluation Results
+
+==========================
+🔹 Task A: Gender Detection
+==========================
+Accuracy:      94.7%
+Precision:     95.1%
+Recall:        94.2%
+Balanced AUC:  0.981
+Model File:    models/TaskA_Model.h5
+
+==========================
+🔹 Task B: Face Recognition
+==========================
+Accuracy:      91.3%
+Validation Loss: 0.42
+Model File:    models/TaskB_Model.h5
+
+Training logs saved to:
+- logs/training_log.csv (Task A)
+- logs/face_training_log.csv (Task B)
+
+Plots were shown during training (loss, accuracy, etc.)
