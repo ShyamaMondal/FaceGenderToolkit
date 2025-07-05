@@ -10,8 +10,8 @@ Both models are trained using state-of-the-art CNN architectures and evaluated o
 ---
 
 ## 📁 Project Structure
-
-FaceDetectionWeb - Copy/
+```
+FaceDetectionWeb
 ├── giveDataSet/
 │ ├── Task_A/ (train/val images)
 │ └── Task_B/ (train/val images)
@@ -30,7 +30,7 @@ FaceDetectionWeb - Copy/
 ├── requirements.txt
 ├── results.txt
 └── README.md
-
+```
 ---
 
 ## ⚙️ Setup Instructions
